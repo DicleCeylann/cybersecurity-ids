@@ -28,9 +28,8 @@ This project implements a Machine Learning-based Intrusion Detection System (IDS
 🛠️ Installation & Usage
 
 1. Clone the repository:
-```bash
-git clone https://github.com/DicleCeylann/cybersecurity-ids.git
-cd cybersecurity-ids
+ git clone https://github.com/DicleCeylann/cybersecurity-ids.git
+ cd cybersecurity-ids
 
 2. Install the required packages:
  pip install -r requirements.txt
