@@ -4,7 +4,7 @@ This project implements a Machine Learning-based Intrusion Detection System (IDS
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 - ✅ Machine Learning-based classification using XGBoost
 - ✅ Real-time traffic prediction via interactive Streamlit UI
@@ -14,7 +14,7 @@ This project implements a Machine Learning-based Intrusion Detection System (IDS
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
 | File              | Description                                          |
 |-------------------|------------------------------------------------------|
@@ -25,7 +25,7 @@ This project implements a Machine Learning-based Intrusion Detection System (IDS
 
 ---
 
-## 🛠️ Installation & Usage
+🛠️ Installation & Usage
 
 1. Clone the repository:
 ```bash
@@ -40,7 +40,7 @@ cd cybersecurity-ids
 
 ---
 
-🧠 **Model Detail** 
+🧠 Model Detail
 
 Algorithm: XGBoost (Gradient Boosted Trees)
 Task: Binary classification (normal vs. malicious)
@@ -50,17 +50,17 @@ Note: You can retrain the model on your own dataset or extend the current pipeli
 
 ---
 
-👩‍💻 **Author**
+👩‍💻 Author
 
-**Dicle Ceylan**
-**B.Sc. in Statistics, Yildiz Technical University (Class of 2026)**
+Dicle Ceylan
+B.Sc. in Statistics, Yildiz Technical University (Class of 2026)
 Focus areas: Cybersecurity, AI, IoT Security
 🌐 GitHub: github.com/DicleCeylann
 💼 LinkedIn: linkedin.com/in/dicle-ceylan
 
 ---
 
-📄 **License**
+📄 License
 
 This project is open-source and available for academic, educational, and research use.
 If you use or modify this code, please provide proper attribution.
